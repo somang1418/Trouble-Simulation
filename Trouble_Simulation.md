@@ -1,7 +1,7 @@
 Trouble
 ================
 
-\#\#\#What is the average length of a move?
+## What is the average length of a move?
 
 A function generates a simulation of die
 
@@ -60,7 +60,7 @@ mean(movelist(10000,6))
 
 The average length of a move is around 4.2
 
-\#\#\#\#Graphing variables with a line that shows a mean value
+## Graphing variables with a line that shows a mean value
 
 ``` r
 goagain1=movelist(1000,1)
@@ -103,8 +103,8 @@ It shows that values for 1,2,3,4,5,6 dice values vary when we generate
 values for 1000 times, but when their mean values are very similar. The
 average length of a move is around 4.1 to 4.3 When d=1,2,3,4,5,6.
 
-\#\#\#Real Question: Is this a fair game with using different “go again
-value”(ex. using 1 vs using 6), in other words both players have an
+
+Real Question: Is this a fair game with using different “go again value”(ex. using 1 vs using 6), in other words both players have an
 equal probability of winning?
 
 ``` r
@@ -191,7 +191,7 @@ When we simulated 10000 times, a probability of winning with 2 is higher
 than a probability of winning with 5. Adding up two probabilities is
 1(verifying)\!
 
-\#\#\#Summary
+## Summary
 
 Choosing smaller number has a better chance to win a game since a user
 can have more rollings, which enhances a chance of winning
