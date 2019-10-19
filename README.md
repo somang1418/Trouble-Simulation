@@ -1,4 +1,4 @@
-# Trouble-Simulation in R
+# Trouble Simulation in R
 
 ![](https://i5.walmartimages.com/dfw/6e29e393-8344/k2-_9d7ed271-3396-4cc9-ae22-9987c312ccbc.v1.jpg)
 
